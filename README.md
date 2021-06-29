@@ -1,5 +1,7 @@
 # A Simple [Battlesnake](https://play.battlesnake.com/) written in TypeScript for Azure Functions
 
+[![Build CI](https://github.com/OliverFlint/battlesnake-azure-function/actions/workflows/node.js.yml/badge.svg)](https://github.com/OliverFlint/battlesnake-azure-function/actions/workflows/node.js.yml)
+
 This is a basic implimentation of the Battlesnake API based on the official Node.js [starter project](https://github.com/battlesnakeofficial/starter-snake-node).
 
 ## Technologies
